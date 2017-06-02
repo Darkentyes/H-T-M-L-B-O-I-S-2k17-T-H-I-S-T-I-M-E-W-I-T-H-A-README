@@ -54,4 +54,7 @@ body {
 
 p.intro{
       text-align: center;
+      background-color: blue;
+      height: 100px;
+      width: 100px;
 }
