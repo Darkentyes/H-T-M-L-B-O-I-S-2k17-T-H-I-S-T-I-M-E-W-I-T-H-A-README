@@ -50,6 +50,7 @@ a:active {
 
 body {
     background-image: url("https://i.ytimg.com/vi/OzmzZcelNl0/maxresdefault.jpg")
+    background-size: contain;
 }
 
 p.intro{
