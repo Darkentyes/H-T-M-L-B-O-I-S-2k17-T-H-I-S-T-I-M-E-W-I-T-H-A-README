@@ -9,5 +9,38 @@ h2 {
 }
 h3 {
       color: Red;
-      font-size: 20pt;
+      font-size: 28pt;
+}
+
+h4 {
+      color: Black;
+      font-size: 28pt;
+}
+
+h5 {
+      color: Blue;
+      font-size: 28pt;
+}
+
+
+/*links*/
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: blue;
+}
+
+a:hover {
+    color: red;
+}
+
+a:active {
+    color: purple;
+} 
+/* End links */
+
+body {
+    background-image: url("https://steamuserimages-a.akamaihd.net/ugc/270598716228579135/06020B12BDD813D5906D9FE38BA5C12B07BB4CF6/")
 }
