@@ -1,4 +1,13 @@
 h1 {
-      color: blue;
+      color: Purple;
       font-size: 28pt;
+}
+
+h2 {
+      color: Pink;
+      font-size: 28pt;
+}
+h3 {
+      color: Red;
+      font-size: 20pt;
 }
